@@ -1,3 +1,4 @@
+import './style/App.css';
 import PostList from './components/PostList';
 
 function App() {
